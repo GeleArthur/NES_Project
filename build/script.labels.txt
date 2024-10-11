@@ -1,0 +1,7 @@
+al 00805B .Add10
+al 00803E .jumpToMe
+al 000300 .palette
+al 000200 .oam
+al 008001 .irq
+al 008002 .reset
+al 008000 .nmi
